@@ -1,4 +1,4 @@
 pyTelegramBotAPI
 websockets
-‎telethon‎
-aiohttp
+‎aiohttp
+telethon
